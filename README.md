@@ -3,5 +3,5 @@
 
 访问地址： http://localhost:8090/sbdemo
 
-数据库脚本：系统支持mysql数据库
+数据库脚本：系统支持mysql数据库，脚本路径为/src/main/db
 
